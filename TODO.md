@@ -27,22 +27,3 @@
 - [ ] AFK command?
 
 
-
-# The Default Thing to Use When Adding To This File
-
-```
-[space]
-[space]
-[space]
-- [ ] [text here]
-```
-
-
-# When Task Is Complete
-
-```
-[space]
-[space]
-[space]
-- [x] [text here]
-```
